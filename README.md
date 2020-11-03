@@ -1,5 +1,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/xZetsubou/MultiLine-Find-and-Replace/total.svg)](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
-
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 # MultiLine Find and Replace
 >- You can download it from here [Releases](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
 
