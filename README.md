@@ -2,18 +2,18 @@
 >- You can download it from here [Releases](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
 
 > - `How to use ?
-Insert on the above textbox the commands (-->) needed between the words`
+Insert on the above textbox the commands (-->) needed between the words
 
 
-`an example` 
+an example
 
-`Hard -->Easy`
+Hard -->Easy
 
-`Hate -->Love`
+Hate -->Love
 
-`Sad -->Happy`
+Sad -->Happy
 
-`now at the bottom textbox every single word ( Hard ) will change to ( Easy )
+now at the bottom textbox every single word ( Hard ) will change to ( Easy )
 same goes to Hate become Love
 and Sad become Happy`
 
