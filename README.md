@@ -1,6 +1,11 @@
 <p align="center">
 [![Github All Releases](https://img.shields.io/github/downloads/xZetsubou/MultiLine-Find-and-Replace/total.svg)](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
 </p>
+```
+<p align="center">
+[![Github All Releases](https://img.shields.io/github/downloads/xZetsubou/MultiLine-Find-and-Replace/total.svg)](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
+</p>
+```
 # MultiLine Find and Replace
 >- You can download it from here [Releases](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
 
