@@ -3,9 +3,17 @@
 
 > - `How to use ?
 Insert on the above textbox the commands (-->) needed between the words`
+
+
 `an example` 
+
+
 `Hard -->Easy`
+
+
 `Hate -->Love`
+
+
 `Sad -->Happy`
 `now at the bottom textbox every single word ( Hard ) will change to ( Easy )
 same goes to Hate become Love
