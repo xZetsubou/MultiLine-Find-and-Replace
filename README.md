@@ -1,4 +1,5 @@
-[![Github All Releases](https://static.pepy.tech/personalized-badge/video2tfrecord?period=total&units=international_system&left_color=blue&right_color=green&left_text=Downloads)](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/xZetsubou/MultiLine-Find-and-Replace/total.svg)]()
+
 # MultiLine Find and Replace
 >- You can download it from here [Releases](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
 
