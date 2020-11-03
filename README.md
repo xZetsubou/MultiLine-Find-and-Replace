@@ -1,7 +1,7 @@
 # MultiLine Find and Replace
 >- You can download it from here [Releases](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
 
-> - `How to use ?
+ `How to use ?
 Insert on the above textbox the commands (-->) needed between the words`
 `an example`
 `Hard -->Easy`
