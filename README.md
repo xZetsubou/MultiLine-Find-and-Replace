@@ -1,4 +1,4 @@
-ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ[![Github All Releases](https://img.shields.io/github/downloads/xZetsubou/MultiLine-Find-and-Replace/total.svg)](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ[![Github All Releases](https://img.shields.io/github/downloads/xZetsubou/MultiLine-Find-and-Replace/total.svg)](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 # MultiLine Find and Replace
 >- You can download it from here [Releases](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
 
