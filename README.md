@@ -1,4 +1,5 @@
 [![Github All Releases](https://img.shields.io/github/downloads/xZetsubou/MultiLine-Find-and-Replace/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/<-- User Name-->/<-- Your Repo Name-->/total.svg)]()
 
 # MultiLine Find and Replace
 >- You can download it from here [Releases](https://github.com/xZetsubou/MultiLine-Find-and-Replace/releases)
