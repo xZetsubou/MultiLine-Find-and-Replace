@@ -5,8 +5,7 @@
 Insert on the above textbox the commands (-->) needed between the words`
 
 
-`an example``
-
+`an example`
 `Hard -->Easy`
 
 `Hate -->Love`
